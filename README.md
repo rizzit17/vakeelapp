@@ -46,14 +46,5 @@ Sync the project with Gradle files.
 
 Run the application on an emulator or a physical device.
 
-📁 Project Structure
-app/src/main/java/com/example/legalgpt/
-├── api/          # Retrofit API interfaces
-├── models/       # Data classes and API response models
-├── ui/           # Compose themes and reusable components
-├── viewmodels/   # Logic for OCR, Risk Detection, and Chat
-├── MainActivity  # Entry point with NavGraph integration
-└── NavGraph      # Application routing and navigation
-
 📜 License
 This project is licensed under the MIT License.

@@ -47,4 +47,5 @@ Sync the project with Gradle files.
 Run the application on an emulator or a physical device.
 
 📜 License
+
 This project is licensed under the MIT License.
